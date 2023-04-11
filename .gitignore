@@ -1,2 +1,4 @@
 
 .ipynb_checkpoints/project2-checkpoint.ipynb
+*.v2
+.ipynb_checkpoints/project2-checkpoint.ipynb
